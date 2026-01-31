@@ -1,8 +1,9 @@
+import { Breadcrumb } from '@/components/refine-ui/layout/breadcrumb'
 import React from 'react'
 
 const dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <div><Breadcrumb/></div>
   )
 }
 
